@@ -7,8 +7,6 @@ export default function Home() {
     <UserButton 
       afterSignOutUrl="/"    
     />
-    This is a protected route.
-
   <ModeToggle/>
   </div>
   );
