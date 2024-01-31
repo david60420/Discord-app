@@ -18,7 +18,7 @@ Features:
 - ORM using Prisma
 - MySQL database using Planetscale
 - Authentication with Clerk
-- + more (To be implemented)
+- "+" more (To be implemented)
 
 Team:
 - Kelly Gao
