@@ -1,5 +1,7 @@
 # FullStack Discord app
 Description: A full stack Discord clone using Next.js 13, React, Socket.io, Prisma, Tailwind, and MySql
+
+
 Features:
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing
