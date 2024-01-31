@@ -18,12 +18,12 @@ Features:
 - ORM using Prisma
 - MySQL database using Planetscale
 - Authentication with Clerk
-+ more (To be implemented)
+- + more (To be implemented)
 
 Team:
-Kelly Gao
-John Bute
-Asad Ali
-Anthony Le
-Sanika Sisodia
-David Yang
+- Kelly Gao
+- John Bute
+- Asad Ali
+- Anthony Le
+- Sanika Sisodia
+- David Yang
